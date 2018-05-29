@@ -1,11 +1,4 @@
 [
-  { "label": "赞助商", "urlId": 0 },
-  { "label": "更新日志", "urlId": 1036 },
-  { "label": "Element React", "urlId": 1037 },
-  {
-    "label": "Element Angular",
-    "urlId": 1038,
-    "children": [
       {
         "label": "开发指南",
         "urlId": 0,
@@ -67,6 +60,4 @@
           { "label": "Collapse 折叠面板", "urlId": 1086 }
         ]
       }
-    ]
-  }
 ]

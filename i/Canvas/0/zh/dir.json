@@ -1,5 +1,13 @@
 {
   "data": [
+    {
+      "label": "相关主题",
+      "urlId": 0,
+      "children": [
+        {
+          "label": "Canvas API",
+          "urlId": 67,
+          "children": [
             {
               "label": "Canvas 教程",
               "urlId": 79,
@@ -43,7 +51,26 @@
                 { "label": "TextMetrics", "urlId": 19 }
               ]
             }
-
+          ]
+        },
+        {
+          "label": "文档:",
+          "urlId": 440,
+          "children": [
+            { "label": "常用页面列表", "urlId": 0 },
+            { "label": "拥有 \"Canvas\" 标签的页面", "urlId": 51 },
+            {
+              "label": "贡献",
+              "urlId": 0,
+              "children": [
+                { "label": "Canvas 文档翻译状态", "urlId": 441 },
+                { "label": "MDN 项目", "urlId": 440 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
   ],
   "ts": 1531357130906
 }
